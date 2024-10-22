@@ -1,4 +1,4 @@
-Morae
+morae
 =====
 
 .. _installation:
